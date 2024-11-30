@@ -1,0 +1,159 @@
+id_quizz,id_question,id_reponse,reponse_quizz,bonne_reponse,nb_reponse
+65f436a437e0a,65f436a4382ca,65f436a4382eb,lune,True,0
+65f436a437e0a,65f436a4382ca,65f436a4382eb,lune,True,0
+65f44b358f3c8,65f44b358f607,65f44b358f646,lune,True,0
+65f44b358f3c8,65f44b358f607,65f44b358f646,lune,True,0
+65f44b81af57d,65f44b81af6b4,65f44b81af6e6,lune,True,0
+65f44b81af57d,65f44b81af6b4,65f44b81af703,"mamie truillette",False,0
+65f4b64a52f70,65f4b64a5322e,65f4b64a53275,"planette terre",True,0
+65f4b64a52f70,65f4b64a5322e,65f4b64a532c3,vrai,False,0
+65f4bbb17f454,65f4bbb17f66d,65f4bbb17f697,noisette,False,0
+65f4bbb17f454,65f4bbb17f66d,65f4bbb17f742,cacao,True,0
+65f4bbea8a21e,65f4bbea8a321,65f4bbea8b96b,tradition,False,0
+65f4bbea8a21e,65f4bbea8a321,65f4bbea8b9b8,paysanne,True,0
+65f4bc024e650,65f4bc024e91e,65f4bc024e942,tradition,False,0
+65f4bc024e650,65f4bc024e91e,65f4bc024e95c,paysanne,True,0
+65f5ed424ca02,65f5ed424cc57,65f5ed424cde4,Hermes,True,0
+65f5ed424ca02,65f5ed424cc57,65f5ed424cee6,Hercule,False,0
+65f6db9875888,65f6db9875a26,65f6db9875a3d,"la viande rouge",True,0
+65f6db9875888,65f6db9875a26,65f6db9875a51,"la viande blanche",False,0
+65f6deda65ceb,65f6deda65f05,65f6deda65f2b,clementine,False,0
+65f6deda65ceb,65f6deda65f05,65f6deda65f51,orange,True,0
+65f6ea7fa7de5,65f6ea7fa809c,65f6ea7fa80c4,tradition,True,0
+65f6ea7fa7de5,65f6ea7fa809c,65f6ea7fa80e4,vrai,False,0
+65f6ea7fa7de5,65f6ea7fa80f0,65f6ea7fa80f9,lolo,True,0
+65f6ea7fa7de5,65f6ea7fa80f0,65f6ea7fa8102,hello,False,0
+65f6eaf990540,65f6eaf9907c7,65f6eaf9907f5,lune,False,0
+65f6eaf990540,65f6eaf9907c7,65f6eaf990816,soleil,True,0
+65f6eaf990540,65f6eaf990820,65f6eaf990829,"il explosera provoquant la fin du systeme solaire",True,0
+65f6eaf990540,65f6eaf990820,65f6eaf990831,"il se transformera en trou noir",False,0
+65f9684422079,65f9684422613,65f9684422666,"entre 10 et 100",False,0
+65f9684422079,65f9684422613,65f96844226de,"entre 100 et 1000",True,0
+65fa046c9e6c8,65fa046c9eaa9,65fa046c9eafe,"ecole vrai",True,0
+65fa046c9e6c8,65fa046c9eaa9,65fa046c9eb49,ecole,False,0
+65fa04d790ded,65fa04d791137,65fa04d7911a4,entr,False,0
+65fa04d790ded,65fa04d791137,65fa04d791232,entr,True,0
+65fa05f75efa1,65fa05f75f654,65fa05f75f8f4,testest,True,0
+65fa05f75efa1,65fa05f75f654,65fa05f75f93c,testest,False,0
+65fabf6503db3,65fabf65054a8,65fabf6505946,coucou,True,0
+65fabf6503db3,65fabf65054a8,65fabf6505b5d,coucou,False,0
+65fac004274b7,65fac004278e1,65fac0042793a,tyyt,True,0
+65fac004274b7,65fac004278e1,65fac00427984,tyty,False,0
+65fac05df0634,65fac05df08f7,65fac05df095e,yuyu,True,0
+65fac05df0634,65fac05df08f7,65fac05df09a5,yuyu,False,0
+65fb36edca26a,65fb36edca6a9,65fb36edca70f,Persan,False,0
+65fb36edca26a,65fb36edca6a9,65fb36edcd6bd,Chienchila,False,0
+65fb36edca26a,65fb36edca6a9,65fb36edcd839,"sacré de birmanie",False,0
+65fb36edca26a,65fb36edca6a9,65fb36edcd9c2,maincoon,False,0
+65fb36edca26a,65fb36edcdb56,65fb36edcdb69,jaune,False,0
+65fb36edca26a,65fb36edcdb56,65fb36edcdb76,noir,False,0
+65fb36edca26a,65fb36edcdb56,65fb36edcdb82,blanc,True,0
+65fb36edca26a,65fb36edcdb56,65fb36edcdb8f,,False,0
+65fb36fd00271,65fb36fd00469,65fb36fd004a9,Persan,False,0
+65fb36fd00271,65fb36fd00469,65fb36fd006f0,Chienchila,False,0
+65fb36fd00271,65fb36fd00469,65fb36fd0093f,"sacré de birmanie",False,0
+65fb36fd00271,65fb36fd00469,65fb36fd00b07,maincoon,False,0
+65fb36fd00271,65fb36fd00c74,65fb36fd00c87,jaune,False,0
+65fb36fd00271,65fb36fd00c74,65fb36fd00c94,noir,False,0
+65fb36fd00271,65fb36fd00c74,65fb36fd00ca0,blanc,True,0
+65fb36fd00271,65fb36fd00c74,65fb36fd00cac,,False,0
+65fb37335bed5,65fb37335c1e6,65fb37335c22e,de,True,0
+65fb37335bed5,65fb37335c1e6,65fb37335c265,de,False,0
+65fb37335bed5,65fb37335c1e6,65fb37335c277,de,False,0
+65fb37335bed5,65fb37335c1e6,65fb37335c284,de,False,0
+65fb373fc5a5f,65fb373fc5c0b,65fb373fc5c43,de,True,0
+65fb373fc5a5f,65fb373fc5c0b,65fb373fc5c74,de,False,0
+65fb373fc5a5f,65fb373fc5c0b,65fb373fc5c7f,de,False,0
+65fb373fc5a5f,65fb373fc5c0b,65fb373fc5c88,,False,0
+65fb516bc1f43,65fb516bc231c,65fb516bc23ec,vrai,False,0
+65fb516bc1f43,65fb516bc231c,65fb516bc243a,lune,False,0
+65fb516bc1f43,65fb516bc231c,65fb516bc2476,tradition,True,0
+65fb516bc1f43,65fb516bc231c,65fb516bc24cd,"mamie truillette",False,0
+65fb51a727c40,65fb51a727eed,65fb51a727f38,"mamie truillette",True,0
+65fb51a727c40,65fb51a727eed,65fb51a727f70,lune,False,0
+65fb51a727c40,65fb51a727eed,65fb51a727f7f,tradition,False,0
+65fb51a727c40,65fb51a727eed,65fb51a727f8b,lune,False,0
+65fb523b00ad5,65fb523b00c36,65fb523b00c63,yuyu,True,0
+65fb523b00ad5,65fb523b00c36,65fb523b00c7f,lune,False,0
+65fb523b00ad5,65fb523b00c36,65fb523b00c87,tradition,False,0
+65fb523b00ad5,65fb523b00c36,65fb523b00c8c,lune,False,0
+65fb59379ecca,65fb59379eee7,65fb59379ef1c,reponse1,True,0
+65fb59379ecca,65fb59379eee7,65fb59379ef48,reponse1,False,0
+65fb59379ecca,65fb59379eee7,65fb59379ef55,reponse1,False,0
+65fb59379ecca,65fb59379eee7,65fb59379ef5d,reponse1,False,0
+65fb59379ecca,65fb59379ef66,65fb59379ef6f,reponse1,False,0
+65fb59379ecca,65fb59379ef66,65fb59379f178,reponse1,False,0
+65fb59379ecca,65fb59379ef66,65fb59379f281,reponse1,False,0
+65fb59379ecca,65fb59379ef66,65fb59379f374,reponse1,False,0
+65fb59379ecca,65fb59379f46f,65fb59379f479,reponse1,False,0
+65fb59379ecca,65fb59379f46f,65fb59379f482,reponse1,False,0
+65fb59379ecca,65fb59379f46f,65fb59379f48a,reponse1,True,0
+65fb59379ecca,65fb59379f46f,65fb59379f492,reponse1,False,0
+65fb5965a37a9,65fb5965a3977,65fb5965a39b3,reponse1,True,0
+65fb5965a37a9,65fb5965a3977,65fb5965a39e1,reponse1,False,0
+65fb5965a37a9,65fb5965a3977,65fb5965a39ef,reponse1,False,0
+65fb5965a37a9,65fb5965a3977,65fb5965a39fb,reponse1,False,0
+65fb5965a37a9,65fb5965a3a08,65fb5965a3a14,reponse1,False,0
+65fb5965a37a9,65fb5965a3a08,65fb5965a3a21,reponse1,False,0
+65fb5965a37a9,65fb5965a3a08,65fb5965a3a30,reponse1,False,0
+65fb5965a37a9,65fb5965a3a08,65fb5965a3a3a,reponse1,True,0
+65fb5965a37a9,65fb5965a3a42,65fb5965a3a4a,reponse1,True,0
+65fb5965a37a9,65fb5965a3a42,65fb5965a3a53,reponse1,False,0
+65fb5965a37a9,65fb5965a3a42,65fb5965a3a5b,reponse1,False,0
+65fb5965a37a9,65fb5965a3a42,65fb5965a3a63,reponse1,False,0
+65fc47b6c89a3,65fc47b6c9007,65fc47b6c9069,"reponse 1",False,0
+65fc47b6c89a3,65fc47b6c9007,65fc47b6c911d,"reponse 2",False,0
+65fc47b6c89a3,65fc47b6c9007,65fc47b6c9135,"reponse 3",False,0
+65fc47b6c89a3,65fc47b6c9007,65fc47b6c9142,"reponse 4",True,0
+65fc6049b6f13,65fc6049b7240,65fc6049b72bd,incrementation,False,0
+65fc6049b6f13,65fc6049b7240,65fc6049b72fb,incrementation,False,0
+65fc6049b6f13,65fc6049b7240,65fc6049b730a,incrementation,False,0
+65fc6049b6f13,65fc6049b7240,65fc6049b7319,incrementation,True,0
+65fc900374910,65fc900374d65,65fc900374dbf,reponse1,False,0
+65fc900374910,65fc900374d65,65fc900374e09,reponse2,False,0
+65fc900374910,65fc900374d65,65fc900374e24,reponse3,False,0
+65fc900374910,65fc900374d65,65fc900374e39,reponse4,True,0
+65fc900374910,65fc900374e4e,65fc900374e62,reponse1,False,0
+65fc900374910,65fc900374e4e,65fc900374e76,reponse2,False,0
+65fc900374910,65fc900374e4e,65fc900374e89,reponse3,False,0
+65fc900374910,65fc900374e4e,65fc900374e9c,reponse4,True,0
+65fd45e47fa55,65fd45e47fbe6,65fd45e48108d,vrai,True,0
+65fd45e47fa55,65fd45e47fbe6,65fd45e481226,lune,False,0
+65fd45e47fa55,65fd45e47fbe6,65fd45e481251,tradition,False,0
+65fd45e47fa55,65fd45e47fbe6,65fd45e481261,vrai,False,0
+65fd4649e40a3,65fd4649e42f1,65fd4649e431b,tradition,True,0
+65fd4649e40a3,65fd4649e42f1,65fd4649e433b,lune,False,0
+65fd4649e40a3,65fd4649e42f1,65fd4649e4347,yuyu,False,0
+65fd4649e40a3,65fd4649e42f1,65fd4649e4350,"planette terre",False,0
+65fd48b5a42b7,65fd48b5a4518,65fd48b5a4565,lune,False,0
+65fd48b5a42b7,65fd48b5a4518,65fd48b5a4588,soleil,True,0
+65fd48b5a42b7,65fd48b5a4518,65fd48b5a4594,"planette terre",False,0
+65fd48b5a42b7,65fd48b5a4518,65fd48b5a459e,mars,False,0
+65fd48e6398c8,65fd48e639b3b,65fd48e639b7f,noisette,True,0
+65fd48e6398c8,65fd48e639b3b,65fd48e639bac,cacao,False,0
+65fd48e6398c8,65fd48e639b3b,65fd48e639bb8,framboise,False,0
+65fd48e6398c8,65fd48e639b3b,65fd48e639bc1,coconut,False,0
+65fd49e6d10be,65fd49e6d12b7,65fd49e6d12f0,"l'open space",True,0
+65fd49e6d10be,65fd49e6d12b7,65fd49e6d1316,"la cours",False,0
+65fd49e6d10be,65fd49e6d12b7,65fd49e6d1346,"les bureaux individuels",False,0
+65fd49e6d10be,65fd49e6d12b7,65fd49e6d1352,"la machine a café",False,0
+65fd4ae8c29f8,65fd4ae8c2bd9,65fd4ae8c2c02,paris,True,0
+65fd4ae8c29f8,65fd4ae8c2bd9,65fd4ae8c2c25,nantes,False,0
+65fd4ae8c29f8,65fd4ae8c2bd9,65fd4ae8c2c31,strasbourg,False,0
+65fd4ae8c29f8,65fd4ae8c2bd9,65fd4ae8c2c3b,lilles,False,0
+65fd4ae8c29f8,65fd4ae8c2c44,65fd4ae8c2c4d,rome,True,0
+65fd4ae8c29f8,65fd4ae8c2c44,65fd4ae8c2c55,venise,False,0
+65fd4ae8c29f8,65fd4ae8c2c44,65fd4ae8c2c5e,naples,False,0
+65fd4ae8c29f8,65fd4ae8c2c44,65fd4ae8c2c66,milan,False,0
+65fd4ae8c29f8,65fd4ae8c2c6e,65fd4ae8c2c77,toronto,False,0
+65fd4ae8c29f8,65fd4ae8c2c6e,65fd4ae8c2c80,ottawa,True,0
+65fd4ae8c29f8,65fd4ae8c2c6e,65fd4ae8c2c88,montreal,False,0
+65fd4ae8c29f8,65fd4ae8c2c6e,65fd4ae8c2c91,calgary,False,0
+65fd545c414c5,65fd545c41926,65fd545c4198d,"un babyfoot",True,0
+65fd545c414c5,65fd545c41926,65fd545c419d8,"une autre machine a café",False,0
+65fd545c414c5,65fd545c41926,65fd545c419f4,"un billard",False,0
+65fd545c414c5,65fd545c41926,65fd545c41a09,"une bouilloire",False,0
+65fd545c414c5,65fd545c41a1e,65fd545c41a33,"café au lait",False,0
+65fd545c414c5,65fd545c41a1e,65fd545c41a47,expresso,True,0
+65fd545c414c5,65fd545c41a1e,65fd545c41a5b,latte,False,0
+65fd545c414c5,65fd545c41a1e,65fd545c41a6f,"café alongé",False,0
