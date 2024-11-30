@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "accueil/home.php",
+        "use": "@vercel/php"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/accueil/home.php"
+      }
+    ]
+  }
