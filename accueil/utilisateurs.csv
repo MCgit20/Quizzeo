@@ -5,3 +5,4 @@ Id_utilisateur,Nom,Prenom,Identifiant,role,Mot_de_passe,nouveau_email,Actif,conn
 65fcc88211a60,entr,entr,entr,Entreprise,$2y$10$UVrn2v6949/QOGv43sphGeww5a6eQlVkn.IsqxBwOV64XpdRcxEYy,,True,True
 65fd4b2c8edbd,test2,test2,test2,Utilisateur,$2y$10$ApgE1wtVIYDqzkKD5g.U2.ulYINinFFycBEWHUTx5eo0ZjNYy1V7i,,True,False
 65fd4b70502b9,benmouffok,myriam,msa,Utilisateur,$2y$10$NyX/sRLr9GRoTuNckUSqJuur15.TY9S42kirq2xsBeZgUGDErR/Dy,,True,False
+674b1e2058d11,CHEN,solene,caca,Utilisateur,$2y$10$XK1ZakX8Bg60tslB/ctAKeUcyuJ73LcPlQQMntvJw.yv8E0GcUlOC,,True,False

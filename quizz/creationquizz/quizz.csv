@@ -2,13 +2,13 @@ id_quizz,nomquizz,descriptionquizz,id_utilisateur,actif,status,nb_reponses,url
 65f436a437e0a,"kaka aaa","un beau quizz sur le chocolataaa",65ef10d468cac,True,EnCours,0,url
 65f44b358f3c8,"les chocolats","un beau quizz sur le chocolat",65ef10d468cac,True,EnCours,0,url
 65f44b81af57d,"les chocolats","un beau quizz sur le chocolat",65ef10d468cac,True,EnCours,0,url
-65f4b64a52f70,"les chocolats","un beau quizz sur le chocolat",65f30860ea5d9,True,Lancé,0,url
+65f4b64a52f70,"les chocolats","un beau quizz sur le chocolat",65f30860ea5d9,True,Lancé,1,url
 65f4bbb17f454,"les chocolats","un beau quizz sur le chocolat",65f30860ea5d9,True,Lancé,0,url
 65f4bbea8a21e,boulangerie,"connaissez vous le domaine du pain?",65f30860ea5d9,True,Terminé,0,url
 65f4bc024e650,boulangerie,"connaissez vous le domaine du pain?",65f30860ea5d9,True,Terminé,0,url
-65f5ed424ca02,"quizz sur la grece antique","connaissez vous la mythologie grecque?",65f30860ea5d9,True,Lancé,0,url
+65f5ed424ca02,"quizz sur la grece antique","connaissez vous la mythologie grecque?",65f30860ea5d9,True,Lancé,1,url
 65f6db9875888,"quizz sur la nourriture","composition des mets et recettes",65f30860ea5d9,True,Lancé,0,url
-65f6deda65ceb,"je suis un quizz","connaissez vous vraiment les fruits?",65f30860ea5d9,True,Lancé,0,url
+65f6deda65ceb,"je suis un quizz","connaissez vous vraiment les fruits?",65f30860ea5d9,True,Lancé,1,url
 65f6ea7fa7de5,boulangerie,"un beau quizz sur le chocolat",65f30860ea5d9,True,Lancé,0,url
 65f6eaf990540,astres,"connaissez vous bien le ciel?",65f30860ea5d9,True,Lancé,0,url
 65f9684422079,"quizz test","un quizz pour faire des test",65f30860ea5d9,True,Lancé,0,url
@@ -33,5 +33,5 @@ id_quizz,nomquizz,descriptionquizz,id_utilisateur,actif,status,nb_reponses,url
 65fd48b5a42b7,"je suis un quizz","un beau quizz sur le chocolat",65fcbc5463848,True,EnCours,0,url
 65fd48e6398c8,boulangerie,"un beau quizz sur le chocolat",65fcc88211a60,True,Terminé,0,url
 65fd49e6d10be,"test de satisfaction","aimez vous notre entreprise",65fcc88211a60,True,Lancé,7,url
-65fd4ae8c29f8,"quizz sur la géographie","avez vous bien revisé",65fcbc5463848,True,Lancé,3,url
+65fd4ae8c29f8,"quizz sur la géographie","avez vous bien revisé",65fcbc5463848,True,Lancé,4,url
 65fd545c414c5,"enquete de satisfaction","que voudriez vous que nous ameliorions",65fcc88211a60,True,Lancé,8,url
