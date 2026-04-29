@@ -1,2 +1,2 @@
 <?php
-require __DIR__ . '/../accueil/index.php';
+require __DIR__ . '/../accueil/home.php';

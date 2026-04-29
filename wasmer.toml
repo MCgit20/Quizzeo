@@ -1,0 +1,4 @@
+[package]
+name = "mon-projet-php"
+version = "1.0.0"
+entrypoint = "public/index.php"
